@@ -8,6 +8,6 @@ https://dcwelch.io/age-grade
 
 ## Data source
 
-Age grading standards are derived from the [Age Grade tables published by Alan Lytton Jones](https://github.com/AlanLyttonJones/Age-Grade-Tables) and adopted by WMA:
+Age Grade standards are derived from the [Age Grade tables published by Alan Lytton Jones](https://github.com/AlanLyttonJones/Age-Grade-Tables) and adopted by WMA. Note that this tool only considers the road running standards, not the track standards.
 
 Those tables are released under the Creative Commons CC0 1.0 Universal public domain dedication. This project redistributes transformed (JSON) versions of the relevant road tables for fast client-side use.
