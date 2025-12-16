@@ -1,6 +1,6 @@
 # Age Grade Converter
 
-Web-based tool to calculate an Age Grade and Age Grade-equivelant times given a distance, time, age, and gender.
+Web-based tool to calculate an Age Grade and Age Grade-equivelant road running times given a distance, time, age, and gender.
 
 ## Live at
 
